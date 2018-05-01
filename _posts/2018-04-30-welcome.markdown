@@ -3,7 +3,23 @@ layout: post
 title: Bem Vindas
 date: 2018-04-30 13:32:20 +0300
 img: farol-barra-2018.jpg # Add image post (optional)
-tags: [Blog]
+category: Pessoal
+tags: [apresentação, bio]
 author: # Add name author (optional)
 ---
-Olá
+
+Seja bem-vinda ao Blog da Mel!
+
+Eu sou Mel, e faz um tempo que tenho uma inquietação de registrar as experiências que tenho das minhas viagens que sempre envolvem muita tecnologia, cultura, astrologia e pessoas, simmmm muitas pessoas. Essa inquietação existe já há alguns anos e agora que vou fazer uma viagem que no fim eu vou dar a volta ao mundo, então agora eu creio que é o momento para começar a registrar os meus destinos.
+
+Aqui eu quero descrever os lugares por onde passo, contar sobre a cultura, experiências e tudo que envolva cada lugar que eu estiver.
+
+Darei o meu máximo para registrar fotos incríveis, não sou fotografa, então não esperem fotos super hiper maravilhosas, mas com certeza elas irão marcar momentos inéditos de territórios incríveis.
+
+Eu adoro falar sobre tecnologia e astrologia, duas coisas tão distintas e que eu consigo uni-las em vários momentos. Quero muito compartilhar as coisas que eu aprendo e os momentos que eu vivo. Cada vivência é única e nos levam a sentimentos sensacionais que devem ser partilhados.
+
+Este é o meu primeiro blog pessoal, tô super ansiosa para contar sober tecnologia, astrologia, viagens e afins.
+
+Espero que a leitura de vocês seja graciosa e cheia de energia!
+
+Beijos, se cuidem galera!
