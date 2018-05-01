@@ -1197,6 +1197,7 @@ pre code {
   margin-bottom: 100px;
   background-color: #fff;
   padding: 20px;
+  text-align: justify;
   -webkit-border-top-left-radius: 20px;
           border-top-left-radius: 20px;
   -webkit-border-top-right-radius: 20px;
