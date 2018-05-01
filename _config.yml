@@ -1,0 +1,53 @@
+title: Mel
+email: melina.deraldo@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+permalink: /:categories/:title/
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Author settings
+author: Mel Deraldo
+author-pic: mel-face.jpg
+about-author: Olá, eu sou Melina Deraldo uma geminiana falante e cheia e energia!! Sou uma tecnologista ativa e umma grande viajante descobrindo o mundo a cada minuto que passo. Nas horas vagas sou escritora!!
+
+# Contact links
+email: melina.deraldo@gmail.com
+website: melderaldo.github.io
+linkedin: melina-deraldo-dos-santos-36392330
+github: melderaldo
+twitter: melderaldo
+facebook: melderaldo
+instagram: melderaldo
+pinterest: melderaldo
+
+
+# Analytics and webmaster tools stuff goes here
+google_analytics:   # Add your Analytics
+google_verify: # Add your Analytics
+
+# Newsletter
+mailchimp: # Add your MailChimp form identifier.
+
+# Disqus
+discus_identifier: # Add your discus identifier
+
+# Tracker
+analytics: # Google Analytics
+
+# Paginate
+paginate: 6
+paginate_path: /page:num/
+
+# Build settings
+markdown: kramdown
+
+plugins:
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-sitemap
+
+include: [_pages]
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
