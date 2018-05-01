@@ -7,6 +7,8 @@ description: > # this means to ignore newlines until "baseurl:"
 permalink: /:categories/:title/
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+reading_time:     true
+words_per_minute: 200
 
 # Author settings
 author: Mel Deraldo
